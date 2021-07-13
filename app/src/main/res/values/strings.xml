@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="activity_add_enter_title">Enter note title...</string>
+    <string name="activity_add_write">Write a note!</string>
+    <string name="menu_main_add_note">Add Note</string>
+    <string name="menu_main_search">Search Notes</string>
+    <string name="menu_main_settings">Cat</string>
+    <string name="row_title">Title</string>
+    <string name="row_note">Note</string>
+    <string name="activity_add_note_btn_add">Add Note</string>
+</resources>
